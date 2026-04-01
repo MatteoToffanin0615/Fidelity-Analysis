@@ -136,6 +136,7 @@ La dashboard è strutturata in tre sezioni principali:
 * KPI: Totale vendite, Numero clienti, Spesa media
 * Trend temporale
 * Performance per negozio e prodotto
+<img width="700" height="400" alt="Screenshot 2026-04-01 162631" src="https://github.com/user-attachments/assets/67eff33a-d741-405c-bc5b-fd19da298f66" />
 
 ### Analisi Clienti
 
@@ -143,21 +144,19 @@ La dashboard è strutturata in tre sezioni principali:
 * Distribuzione spesa (long-tail)
 * Distribuzione frequenza acquisti
 * Top clienti
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/02bee69f-5ad8-444f-986c-19d1f455b198" />
 
 ### Fidelity & Retention
 
 * Distribuzione Recency
 * Clienti attivi vs a rischio vs persi
 * Analisi frequenza e spesa per stato cliente
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5f1e02ff-ea03-43a4-a01e-242e3c43ed1f" />
 
 ---
 ## 📥 Download Dashboard
 
-[https://drive.google.com/file/d/1yR4VPDIUWYwXLiLVmUzszkCvtUlbShK1/view?usp=sharing]
-
-
-<img width="700" height="400" alt="Screenshot 2026-04-01 162631" src="https://github.com/user-attachments/assets/67eff33a-d741-405c-bc5b-fd19da298f66" />
-
+#### [https://drive.google.com/file/d/1yR4VPDIUWYwXLiLVmUzszkCvtUlbShK1/view?usp=sharing]
 ---
 
 ## Key Insights
