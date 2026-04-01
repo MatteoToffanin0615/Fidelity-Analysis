@@ -156,7 +156,7 @@ La dashboard è strutturata in tre sezioni principali:
 ---
 ## 📥 Download Dashboard
 
-#### [https://drive.google.com/file/d/1yR4VPDIUWYwXLiLVmUzszkCvtUlbShK1/view?usp=sharing]
+#### [[https://drive.google.com/file/d/1yR4VPDIUWYwXLiLVmUzszkCvtUlbShK1/view?usp=sharing](https://drive.google.com/file/d/1dIlc71cy_GvmoeH9lX-RVZE37sejneVO/view?usp=drive_link)]
 ---
 
 ## Key Insights
