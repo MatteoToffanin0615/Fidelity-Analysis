@@ -151,6 +151,14 @@ La dashboard è strutturata in tre sezioni principali:
 * Analisi frequenza e spesa per stato cliente
 
 ---
+## 📥 Download Dashboard
+
+[https://drive.google.com/file/d/1yR4VPDIUWYwXLiLVmUzszkCvtUlbShK1/view?usp=sharing]
+
+
+<img width="700" height="400" alt="Screenshot 2026-04-01 162631" src="https://github.com/user-attachments/assets/67eff33a-d741-405c-bc5b-fd19da298f66" />
+
+---
 
 ## Key Insights
 
